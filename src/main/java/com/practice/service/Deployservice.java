@@ -16,7 +16,7 @@ public class Deployservice {
 		return List.of(new Deploy(101, "santosh", "Telangana"),
 		        new Deploy(102, "kumar", "kerala"),
 		        new Deploy(103, "raparthi", "bihar"),
-		        new Deploy(103, "raparthi", "bihar"));
+		        new Deploy(103, "raparthi", "bihariiii"));
 
 	
 }}
